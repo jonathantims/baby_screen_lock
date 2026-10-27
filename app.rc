@@ -1,0 +1,4 @@
+/* app.rc - Application resource file.
+   The icon is generated into out\ by create_icon.exe before rc runs.
+   Resource 1 is the icon Explorer uses for the exe and for shortcuts. */
+1 ICON "out\\app_icon.ico"
